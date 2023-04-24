@@ -54,9 +54,6 @@
 </div>
 <br>
 <br>
-
----
-<br>
 <div align="center" style="display:block;">
 <h2 style="color: #44AEFB">📈 Statistics 📈</h2>
 </div>
@@ -78,7 +75,6 @@
 <br>
 
 ---
-<br>
 <h3 align="center">Connect with me:</h3>
 
 <div class="footer" align="center" style="margin:15px;">
