@@ -67,10 +67,7 @@
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RodolfoJSCampos&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 
-<p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rodolfojscampos&layout=compact&show_icons=true&theme=algolia&border_radius=20" alt="rodolfojscampos" />
-    </a>
-</p>
+![trophy](https://github-profile-trophy.vercel.app/?username=RodolfoJSCampos&theme=algolia)
 </div>
 <br>
 
