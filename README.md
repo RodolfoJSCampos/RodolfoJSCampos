@@ -7,7 +7,6 @@
     I'm a full stack developer specializing in mobile development. Although I don't have professional experience, I've been working on personal projects to refine my skills. I'm a quick learner and a problem-solver that is excited to start in mobile development career and eager to work with. Thank you for considering my profile, and I look forward to discussing how I can contribute to your team.
 </p>
 <br>
-<br>
 <div align="center" style="display:block;">
 <h2 style="color: #44AEFB">⚙️ Languages and Tools ⚙️</h2>
 </div>
