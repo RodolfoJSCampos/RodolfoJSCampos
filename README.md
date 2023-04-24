@@ -1,7 +1,8 @@
 <div align="center" style="display:block;">
 <h1 style="color: #44AEFB;"> Hi there 👋, I'm Rodolfo Campos </h1>
+<img alt="Develop an app gif" src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif"/>
 </div>
-
+<br>
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I'm a full stack developer specializing in mobile development. Although I don't have professional experience, I've been working on personal projects to refine my skills. I'm a quick learner and a problem-solver that is excited to start in mobile development career and eager to work with. Thank you for considering my profile, and I look forward to discussing how I can contribute to your team.
 </p>
